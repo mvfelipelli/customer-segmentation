@@ -164,4 +164,5 @@ cython_debug/
 
 *.parquet
 *.zip
+*.csv
 data/geojs-100-mun.json
